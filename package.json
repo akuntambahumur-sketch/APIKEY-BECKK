@@ -1,0 +1,14 @@
+{
+  "name": "bot-telegram-vercel",
+  "version": "1.0.0",
+  "description": "Bot Telegram ApiKey",
+  "main": "api/bot.js",
+  "scripts": {
+    "start": "node api/bot.js"
+  },
+  "dependencies": {
+    "axios": "^1.7.2",
+    "node-fetch": "^2.6.7",
+    "telegraf": "^4.16.3"
+  }
+}
