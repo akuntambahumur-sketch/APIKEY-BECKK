@@ -11,7 +11,7 @@ const BOT_TOKEN = process.env.BOT_TOKEN || 'TOKEN_BOT_TELEGRAM_ANDA';
 const API_KEY = process.env.API_KEY || 'API_KEY_ANDA';
 
 // Ini adalah API "DAPUR" yang Anda panggil
-const BASE_URL = 'https://bot-telegram-fix-merah.vercel.app'; 
+const BASE_URL = 'https://apikeybeckk.vercel.app/api'; 
 const ADMIN_ID = 7916275798; // Ganti dengan ID Admin Anda
 
 const bot = new Telegraf(BOT_TOKEN);
